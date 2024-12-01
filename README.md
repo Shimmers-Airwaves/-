@@ -1,1 +1,1 @@
-# Gemz-Auto-Clicker-Powerful
+# Snapster-Auto-Clicker-Powerful
