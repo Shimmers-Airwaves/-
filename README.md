@@ -1,0 +1,2 @@
+# -
+Snapster-Auto-Clicker
